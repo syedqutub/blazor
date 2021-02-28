@@ -504,5 +504,5 @@ MigrationBackup/
 
 # cake
 /tools
-
+# deployment commit
 # End of https://www.toptal.com/developers/gitignore/api/dotnetcore,aspnetcore,visualstudio,visualstudiocode
